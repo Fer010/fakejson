@@ -1,1 +1,19 @@
-"#db" 
+[{
+    "idTitulo": 123,
+    "simbolo": "PAMC47.0FE",
+    "ultimoPrecio": 4.82,
+    "min": 1.32,
+    "max": 5.4
+  }, {
+    "idTitulo": 129,
+    "simbolo": "PAMC51.0FE",
+    "ultimoPrecio": 1.25,
+    "min": 0.6,
+    "max": 1.48
+  }, {
+    "idTitulo": 146,
+    "simbolo": "PAMC53.0FE",
+    "ultimoPrecio": 0.98,
+    "min": 0.4,
+    "max": 1.24
+  }]
